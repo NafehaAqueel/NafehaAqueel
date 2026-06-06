@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nafeha Aqueel 👋
 
-<!--
-**NafehaAqueel/NafehaAqueel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+🏆 First Year Class Topper (8.2 CGPA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 IEEE Student Member
+
+💻 Currently Learning:
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+🌱 Building projects and improving problem-solving skills.
+
+🎯 Interested in Software Development and Web Development.
+
+LinkedIn: linkedin.com/in/nafeha-aqueel-3361b639b
